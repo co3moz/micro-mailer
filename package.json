@@ -1,0 +1,17 @@
+{
+  "name": "micro-mailer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "1.21.0",
+    "gluon": "1.5.1",
+    "nodemailer": "^0.7.1"
+  }
+}

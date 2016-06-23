@@ -1,0 +1,26 @@
+{
+  "mailer": {
+    "type": "SMTP",
+    "host": "robogon.com",
+    "secure": false,
+    "port": 25,
+    "auth": {
+      "user": "test@robogon.com",
+      "pass": "test"
+    },
+    "tls": {
+      "rejectUnauthorized": false
+    }
+  },
+  "from": "test@robogon.com",
+  "gluon": {
+    "listen": {
+      "ip": "127.0.0.1",
+      "port": "3162"
+    },
+    "dir": "./src"
+  },
+  "logger": {
+    "level": "LOG"
+  }
+}

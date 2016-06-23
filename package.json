@@ -2,13 +2,10 @@
   "name": "micro-mailer",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "main": "src/app.js",
+  "private": true,
+  "author": "co3moz",
+  "license": "MIT",
   "dependencies": {
     "config": "1.21.0",
     "gluon": "1.5.1",

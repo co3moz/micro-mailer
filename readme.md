@@ -32,6 +32,8 @@ Configuration
 }
 ```
 
+> **Note:** gmail requires some password job. Check [here](https://accounts.google.com/b/0/DisplayUnlockCaptcha)
+
 Routes
 -------------
 

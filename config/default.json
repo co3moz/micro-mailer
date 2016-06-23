@@ -1,6 +1,5 @@
 {
   "mailer": {
-    "type": "SMTP",
     "host": "robogon.com",
     "secure": false,
     "port": 25,

@@ -1,17 +1,16 @@
 {
   "mailer": {
-    "host": "robogon.com",
-    "secure": false,
-    "port": 25,
+    "host": "smtp.gmail.com",
+    "secure": true,
     "auth": {
-      "user": "test@robogon.com",
-      "pass": "test"
+      "user": "name@gmail.com",
+      "pass": "pass"
     },
     "tls": {
       "rejectUnauthorized": false
     }
   },
-  "from": "test@robogon.com",
+  "from": "name@gmail.com",
   "gluon": {
     "listen": {
       "ip": "127.0.0.1",

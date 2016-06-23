@@ -32,7 +32,7 @@ Configuration
 }
 ```
 
-> **Note:** gmail requires some password job. Check [here](https://accounts.google.com/b/0/DisplayUnlockCaptcha)
+> **Note:** gmail requires some password job. Check [here](https://accounts.google.com/b/0/DisplayUnlockCaptcha) and [here too](https://security.google.com/settings/security/apppasswords)
 
 Routes
 -------------
